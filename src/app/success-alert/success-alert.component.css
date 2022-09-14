@@ -1,0 +1,9 @@
+p {
+    color: rgb(47, 219, 47);
+    font-weight: bold;
+    background: rgb(255, 255, 255);
+    display: inline-block;
+    padding: 5px;
+    border-radius: 10px;
+    border: solid rgb(47, 219, 47) 2px;
+}
